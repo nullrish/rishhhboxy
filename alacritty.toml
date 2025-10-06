@@ -1,0 +1,28 @@
+[colors]
+[colors.primary]
+background = '#101930' # dark navy instead of dark green
+foreground = '#BFD6F4' # light bluish foreground
+
+[colors.normal]
+black = "#1A2B3B"   # dark blue-black
+red = "#FF5345"     # keep red as alert
+green = "#3A7EAA"   # replace green with muted blue
+yellow = "#4A7FAE"  # replace yellow with tealish blue
+blue = "#5094B0"    # primary blue
+magenta = "#D2689C" # keep magenta accent
+cyan = "#2DB5D5"    # bright cyan
+white = "#E5EBF5"   # off-white bluish
+
+[colors.bright]
+black = "#3B536B"   # brighter blue-black
+red = "#DB9F9C"     # keep bright red
+green = "#1A4D6B"   # darker muted blue
+yellow = "#8ABED6"  # muted light blue
+blue = "#ACD4F0"    # bright blue
+magenta = "#75BBCF" # muted magenta-blue
+cyan = "#8CD3EB"    # bright cyan-blue
+white = "#C0E0F0"   # light bluish white
+
+[colors.cursor]
+text = "#000000"
+cursor = "#BFD6F4" # light blue cursor
